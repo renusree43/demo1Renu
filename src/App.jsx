@@ -4,8 +4,8 @@ class App extends React.Component {
   render() {
     return (
       <div style={{ textAlign: "center", marginTop: "80px", fontFamily: "Arial" }}>
-        <h1>name-Chakka Renu Sree Charitha</h1>
-        <p>email-2500030373@kluniversity.in</p>
+        <h1>Hello World</h1>
+        <p>Class Component Demo</p>
       </div>
     );
   }
